@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>0</order>
+        <question display_value="Where would you like to pick this item?">a6a94bdd29cd50107f442efd3cf4a53c</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 12:05:53</sys_created_on>
+        <sys_id>aaa94bdd29cd50107f442efd3cf4a541</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New York</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">8f983030294d10107f442efd3cf4a52b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">8f983030294d10107f442efd3cf4a52b</sys_scope>
+        <sys_update_name>question_choice_aaa94bdd29cd50107f442efd3cf4a541</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 12:05:53</sys_updated_on>
+        <text>New York</text>
+        <value>ny</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=aaa94bdd29cd50107f442efd3cf4a541"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>aaa94bdd29cd50107f442efd3cf4a541</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 12:05:53</sys_created_on>
+        <sys_id>2ea94bdd29cd50107f442efd3cf4a542</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 12:05:53</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>aaa94bdd29cd50107f442efd3cf4a541</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 12:05:53</sys_created_on>
+        <sys_id>e2a94bdd29cd50107f442efd3cf4a542</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 12:05:53</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
