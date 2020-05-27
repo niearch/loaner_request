@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>count</name>
+        <order>400</order>
+        <rest_message_function display_value="Default GET">1492361529cd50107f442efd3cf4a538</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 10:35:04</sys_created_on>
+        <sys_id>7454fe1529cd50107f442efd3cf4a5c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>count</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">8f983030294d10107f442efd3cf4a52b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">8f983030294d10107f442efd3cf4a52b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_7454fe1529cd50107f442efd3cf4a5c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 10:35:04</sys_updated_on>
+        <value>${count}</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
